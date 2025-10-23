@@ -1,0 +1,38 @@
+<books>
+    <book>
+        <name>Moby Dick</name>
+        <author>Herman Melville</author>
+        <pages>900</pages>
+        <category>psychological</category>
+    </book>
+    <book>
+        <name>Crime and Punishment</name>
+        <author>Fiodor Dostojewski</author>
+        <pages>600</pages>
+        <category>psychological</category>
+    </book>
+    <book>
+        <name>Zew cthulhu</name>
+        <author>H.P Lovecraft</author>
+        <pages>40</pages>
+        <category>Cosmic Horror</category>
+    </book>
+    <book>
+        <name>Bractwo pierścienia</name>
+        <author>J.R.R Tolkien</author>
+        <pages>400</pages>
+        <category>Fantasy</category>
+    </book>
+    <book>
+        <name>Wiedźmin - Ostatnie życzenie</name>
+        <author>Andrzej Sapkowski</author>
+        <pages>200</pages>
+        <category>Fantasy</category>
+    </book>
+    <book>
+        <name>Niezwyciężony</name>
+        <author>Stanisław Lem</author>
+        <pages>300</pages>
+        <category>Sci-fi</category>
+    </book>
+</books>
