@@ -1,0 +1,14 @@
+{
+    "name": "Szymon",
+    "surname": "Bąk",
+    "age": 20,
+    "height": 1.74,
+    "weight": 78,
+    "married": false,
+    "studiedin": ["uek","agh","uj"],
+    "Lived in": {
+        "Poland": true,
+        "England": true,
+        "Germany": false
+    }
+}
